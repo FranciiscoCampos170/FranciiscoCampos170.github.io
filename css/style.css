@@ -112,3 +112,10 @@ canvas{
 	line-height: 1;
 	color: #fff;
 }
+.header .site-description{
+	font-size: 20px;
+	display: block;
+	line-height: 1;
+	color: #fff;
+	margin-top: 10px;
+}
