@@ -108,13 +108,13 @@ h1{
 	margin: 0 auto;
 	transform: translate(-50%, -50%);
 }
-.header .site-title{
+.site-title{
 	font-size: 50px;
 	display: block;
 	line-height: 1;
 	color: #fff;
 }
-.header .site-description{
+.site-description{
 	font-size: 20px;
 	display: block;
 	line-height: 1;
